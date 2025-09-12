@@ -1,0 +1,130 @@
+{
+  "products": [
+    {
+      "id": "1757432359258",
+      "name": "PEPPER",
+      "description": "YELLOW",
+      "category": "Food",
+      "price": 12,
+      "quantity": 25,
+      "minStockLevel": 18,
+      "lastUpdated": "9/10/2025",
+      "lastSold": "2025-09-10T12:27:56.772Z"
+    },
+    {
+      "id": "1757436897691",
+      "name": "MEAT",
+      "description": "PORK",
+      "category": "Food",
+      "price": 112,
+      "quantity": 2,
+      "minStockLevel": 14,
+      "lastUpdated": "9/9/2025"
+    },
+    {
+      "id": "1757437071867",
+      "name": "SIMBAS",
+      "description": "CHEESE",
+      "category": "Snacks",
+      "price": 81,
+      "quantity": 0,
+      "minStockLevel": 8,
+      "lastUpdated": "9/9/2025"
+    },
+    {
+      "id": "1757506504803",
+      "name": "coke",
+      "description": "2litre",
+      "category": "Other",
+      "price": 30,
+      "quantity": 4,
+      "minStockLevel": 3,
+      "lastUpdated": "9/10/2025"
+    },
+    {
+      "id": "1757684614594",
+      "name": "coffee ",
+      "description": "delicious food",
+      "category": "Desserts",
+      "price": 23,
+      "quantity": 2,
+      "minStockLevel": 6,
+      "lastUpdated": "9/12/2025"
+    }
+  ],
+  "customers": [
+    {
+      "id": "1757507166633",
+      "name": "nthati",
+      "email": "nthatisekoati02@gmail",
+      "phone": "62177536",
+      "address": "lower thamae",
+      "notes": "herre",
+      "visitCount": 0,
+      "totalSpent": 0,
+      "lastVisit": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "1757437176385",
+      "type": "sale",
+      "productId": "1757432359258",
+      "productName": "PEPPER",
+      "productPrice": 12,
+      "quantity": 3,
+      "total": 36,
+      "date": "2025-09-09T16:59:36.385Z",
+      "customer": {
+        "email": "bafokeng@gmail.com",
+        "phone": "563426575",
+        "name": "bafokeng"
+      }
+    },
+    {
+      "id": "1757437176403",
+      "type": "sale",
+      "productId": "1757432359258",
+      "productName": "PEPPER",
+      "productPrice": 12,
+      "quantity": 3,
+      "total": 36,
+      "date": "2025-09-09T16:59:36.403Z",
+      "customer": {
+        "email": "bafokeng@gmail.com",
+        "phone": "563426575",
+        "name": "bafokeng"
+      }
+    },
+    {
+      "id": "1757507276820",
+      "type": "sale",
+      "productId": "1757432359258",
+      "productName": "PEPPER",
+      "productPrice": 12,
+      "quantity": 3,
+      "total": 36,
+      "date": "2025-09-10T12:27:56.821Z",
+      "customer": {
+        "email": "thabi@gmail.com",
+        "phone": "56270011",
+        "name": "thabi"
+      }
+    },
+    {
+      "id": "1757507277178",
+      "type": "sale",
+      "productId": "1757432359258",
+      "productName": "PEPPER",
+      "productPrice": 12,
+      "quantity": 3,
+      "total": 36,
+      "date": "2025-09-10T12:27:57.178Z",
+      "customer": {
+        "email": "thabi@gmail.com",
+        "phone": "56270011",
+        "name": "thabi"
+      }
+    }
+  ]
+}
