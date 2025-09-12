@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "homepage": "https://github.com/NthatiStar/bafokeng--wings-cafe.git",
+  "main": "server.js",
+  "scripts": {
+"start": "react-scripts start",              
+  "build": "react-scripts build",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build",
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "start-backend": "node server.js" 
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
