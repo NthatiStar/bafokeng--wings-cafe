@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "homepage": "https://github.com/NthatiStar/bafokeng--wings-cafe.git",
+  "homepage": "https://github.com/NthatiStar/ramalefane-wings-cafe-inventory.git",
   "main": "server.js",
   "scripts": {
 "start": "react-scripts start",              
